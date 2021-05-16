@@ -9,6 +9,7 @@ Pagina Web: https://www.rslicing3d.com/tutoriales/
 
 Ingresá a la carpeta del número de capítulo que desees descargar el código de los programas.
 Cada programa se encuentra en formato .txt de manera que podrás hacer clic y verlo en el navegador.
+Al igual que en formato .ino de manera que podrás probarlo en tu arduino.
 Es importante que desactives la traducción automática de Inglés a Español ya que sino el código será traducido y por ende inutilizable.
 Podrás seleccionar el código, copiarlo y pegarlo en el editor del IDE.
 Podrás descargar el archivo de texto y luego abrirlo de forma local en tu computadora.
